@@ -1,3 +1,5 @@
+#原题是头歌里面的题目，用于练习字典，字符串和绘图
+#文件中有各个公司相应的股票数据，题目要求就是把这些数据以图像的形式画出来
 #再加上import numpy就是数据处理三剑客了
 import pandas as pd
 import matplotlib.pyplot as plt
